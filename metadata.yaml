@@ -1,10 +1,13 @@
 _repo: Trail-and-Trading-Post-or-The-Young-Hunters-of-the-Ohio_63431
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kennedy, J. W.
     gutenberg_agent_id: '46259'
     url: http://www.gutenberg.org/2009/agents/46259
+covers:
+- cover_type: archival
+  image_path: 63431-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63431#Trail-and-Trading-Post-or-The-Young-Hunters-of-the-Ohio
 gutenberg_issued: '2020-10-10'
 gutenberg_type: Text
 identifiers:
